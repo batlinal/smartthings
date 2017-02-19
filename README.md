@@ -12,3 +12,4 @@ Do your children call you the light police because you always tell them to switc
 
 ## [Bulb Motion Sensor](https://github.com/batlinal/smartthings/tree/master/bulb-motion-sensor.src)
 
+Based on on original ST community [thread](https://community.smartthings.com/t/hue-bulbs-as-motion-sensor-device-driver/78358).
