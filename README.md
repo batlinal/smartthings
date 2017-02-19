@@ -9,3 +9,6 @@ Do your children call you the light police because you always tell them to switc
 * how frequent the patrol interval should be e.g. check and switch off every 5, 10 etc. minutes
 * which illuminance lux sensor to use e.g. [Fibaro Motion Sensor](https://www.fibaro.com/en/products/motion-sensor/)  
 * the lux level e.g. 50 plus is a pretty cloudy day.
+
+## [Bulb Motion Sensor](https://github.com/batlinal/smartthings/tree/master/bulb-motion-sensor.src)
+
