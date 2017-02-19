@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Executable: smartapps/alex-batlin/bulb-motion-sensor.src
+
+Name: bulb-motion-sensor.groovy
+SHA1-Digest: 35338a2006d17f57f8c75d04bf4dbc54ed204b3b
+
+Name: i18n/messages.properties
+SHA1-Digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
