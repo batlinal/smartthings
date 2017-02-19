@@ -1,7 +1,7 @@
 # smartthings
 SmartThings apps, device handlers etc.
 
-## Light Police
+## [Light Police](./tree/master/light-police.src)
 
 Do your children call you the light police because you always tell them to switch off lights? Then this is for you! Install this app and then configure it to auto-switch-off lights!
 
